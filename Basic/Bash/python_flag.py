@@ -3,7 +3,6 @@ import sys
 len_argv = len(sys.argv)
 import os
 if len_argv > 1:
-	print('udah masuk')
 	for each_ in sys.argv:
 		try:
 			#print(each_)
